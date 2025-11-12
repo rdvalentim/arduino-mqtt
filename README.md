@@ -132,4 +132,4 @@ mosquitto_pub -h test.mosquitto.org -t "iot/riodosul/si/BSN22025T26F8/cell/3/dev
 
 Desenvolvido por  
 **Gustavo Verdi** e **Ramon Diego Valentim**  
-Curso Superior de Tecnologia em Sistemas para Internet – UNIDAVI (2025)
+Sistemas de Informação – UNIDAVI (2025)
